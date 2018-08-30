@@ -3,6 +3,14 @@ Assets and codes for Chapter 16 - Virtual Reality and Extra Features
 
 The **completed** Unity projects for each example can be found in their own repos as follows:
 
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-08-saving-screenshots
+
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-04-saving-using-static-properties
+
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-05-saving-using-playerprefs
+
+1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch10-09-load-level-data
+
 1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-01-quality-ui-slider
 
 1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch16-02-pause-game
